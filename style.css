@@ -46,6 +46,9 @@
     display: inline-block;
   }
 /*------------------------------------banner---------------------------------------*/
+nav{
+    position: absolute;
+}
 #banner{
 position: absolute;
 height:630px;
